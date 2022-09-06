@@ -1,4 +1,4 @@
-# Tutorials Inspired by book: O'Reilly Rust Programming - Fast, Safe Systems Development
+# Tutorials Inspired by book: O'Reilly Programming Rust - Fast, Safe Systems Development
 
 These video-based(youtube) tutorials attempt to choose something somewhat challenging but at the same time go at a slow pace and try to go over basics.  
 <br/>
