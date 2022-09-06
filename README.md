@@ -10,13 +10,13 @@ The approach is to:
 <br/>  
 
 
-## [How I Learn Rust](https://www.youtube.com/watch?v=zTe-8WwR4Xc&list=PLNKa8O7lX-w5OCsqlXnfS-mhrzvyhzU0u&index=1)  
+## [Video: How I Learn Rust](https://www.youtube.com/watch?v=zTe-8WwR4Xc&list=PLNKa8O7lX-w5OCsqlXnfS-mhrzvyhzU0u&index=1)  
 <br/>  
 
-## [Simple Intro To Rust Closures Behaving Like Lambdas](https://www.youtube.com/watch?v=muGVaOzxY3I&list=PLNKa8O7lX-w5OCsqlXnfS-mhrzvyhzU0u&index=2)  
+## [Video: Simple Intro To Rust Closures Behaving Like Lambdas](https://www.youtube.com/watch?v=muGVaOzxY3I&list=PLNKa8O7lX-w5OCsqlXnfS-mhrzvyhzU0u&index=2)  
 <br/>
   
-## [Simple Actix Web Server]()  
+## [Video: Simple Actix Web Server]()  
 In this video we create a simple but updated version of a web server from page 17 of the book.  
 [Here]() is the code.  
 <br/>
