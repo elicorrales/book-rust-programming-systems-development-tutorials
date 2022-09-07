@@ -16,7 +16,7 @@ The approach is to:
 ## [Video: Simple Intro To Rust Closures Behaving Like Lambdas](https://www.youtube.com/watch?v=muGVaOzxY3I&list=PLNKa8O7lX-w5OCsqlXnfS-mhrzvyhzU0u&index=2)  
 <br/>
   
-## [Video: Simple Actix Web Server]()  
+## [Video: Simple Actix Web Server](https://www.youtube.com/watch?v=lXoxUNugf7A)  
 In this video we create a simple but updated version of a web server from page 17 of the book.  
 [Here](https://github.com/elicorrales/book-rust-prog-sys-dev-tutorials-play-1-num-3) is the code.  
 <br/>
