@@ -18,6 +18,6 @@ The approach is to:
   
 ## [Video: Simple Actix Web Server]()  
 In this video we create a simple but updated version of a web server from page 17 of the book.  
-[Here]() is the code.  
+[Here](https://github.com/elicorrales/book-rust-prog-sys-dev-tutorials-play-1-num-3) is the code.  
 <br/>
   
